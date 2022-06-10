@@ -32,4 +32,4 @@ Once you have created the **Book** class, you will create at least three valid i
 To test your **readBook** instance method, you must follow these instructions for three books (without refreshing the page):
 
 update the current page with a valid page that is less than the total number of pages
-update the current page with the exact total number of pages (the book should disappear from the carousel and appear in the "Read" list)
+update the current page with the exact total number of pages (the book should disappear from the carousel and appear in the "Read" list).
